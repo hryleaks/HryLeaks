@@ -1,4 +1,4 @@
 kind: wasmer.io/App.v0
-name: HryLeaks
+name: hryleaks
 owner: hryleaks
 package: .
